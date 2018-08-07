@@ -1,2 +1,0 @@
-# Test-Aggrid
-READ ME
